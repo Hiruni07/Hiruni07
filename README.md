@@ -44,7 +44,7 @@
 ### 🎓 Education  
 
 "Cinec Campus ( University of Wolverhampton)"
-BSc (Hons) Computer Science (Software Engineering) Top-up (Present)
+- BSc (Hons) Computer Science (Software Engineering) Top-up (Present)
 
 **ICBT Campus**  
 - Higher Diploma in Computing & Software Engineering  
